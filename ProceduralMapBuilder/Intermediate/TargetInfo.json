@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProceduralMapBuilder",
+			"Path": "..\\Source\\ProceduralMapBuilder.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProceduralMapBuilderEditor",
+			"Path": "..\\Source\\ProceduralMapBuilderEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\1unrealengine\\proceduralmapbuilder\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proceduralmapbuilder\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\1unrealengine\\proceduralmapbuilder\\intermediate\\build\\win64\\x64\\proceduralmapbuildereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\1unrealengine\\proceduralmapbuilder\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proceduralmapbuilder\\definitions.proceduralmapbuilder.h",
+            "c:\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

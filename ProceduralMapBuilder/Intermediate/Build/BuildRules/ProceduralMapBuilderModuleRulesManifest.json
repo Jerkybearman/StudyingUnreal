@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\1UNREALENGINE\\ProceduralMapBuilder\\Source\\ProceduralMapBuilder\\ProceduralMapBuilder.Build.cs",
+		"D:\\1UNREALENGINE\\ProceduralMapBuilder\\Source\\ProceduralMapBuilder.Target.cs",
+		"D:\\1UNREALENGINE\\ProceduralMapBuilder\\Source\\ProceduralMapBuilderEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

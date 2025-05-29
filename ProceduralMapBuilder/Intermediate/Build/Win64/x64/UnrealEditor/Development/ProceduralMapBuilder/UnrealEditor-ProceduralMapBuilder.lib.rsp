@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ProceduralMapBuilder.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\1UNREALENGINE\ProceduralMapBuilder\Intermediate\Build\Win64\x64\ProceduralMapBuilderEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\1UNREALENGINE\ProceduralMapBuilder\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProceduralMapBuilder\ProceduralMapBuilder.cpp.obj"
+"D:\1UNREALENGINE\ProceduralMapBuilder\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProceduralMapBuilder\PerModuleInline.gen.cpp.obj"
+"D:\1UNREALENGINE\ProceduralMapBuilder\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProceduralMapBuilder\Default.rc2.res"
+/OUT:"D:\1UNREALENGINE\ProceduralMapBuilder\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProceduralMapBuilder\UnrealEditor-ProceduralMapBuilder.lib"
